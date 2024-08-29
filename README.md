@@ -1,2 +1,2 @@
 # MATLAB_GSD
-matlab编写的GSD基本实现代码
+这是一个有限差分方法实现GSD模型计算的代码
